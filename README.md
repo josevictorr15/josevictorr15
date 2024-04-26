@@ -1,4 +1,5 @@
-### Olá! Eu sou o José Victor 👋
+### Olá! Eu sou o José Victor.
+    👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseevictor15/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joseevictor1519/)
@@ -17,7 +18,7 @@
     <img allign="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Completei o Curso de Programação Front-End da Alura, além de estar sempre me atualizando com as novas tecnologias do mercado, adquirindo conhecimentos dia após dia e fazendo cursos voltado ao front-end.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. faço cursos por fora da faculdade voltado ao backend e possuo conhecimentos em front-end (JavaScript e React), além de estar sempre me atualizando com as novas tecnologias do mercado, adquirindo conhecimentos dia após dia e aprimorando minhas soft skills.
 
 Me considero uma pessoa otimista, obstinada e esforçada, além de saber me adaptar à qualquer mudança.
 
